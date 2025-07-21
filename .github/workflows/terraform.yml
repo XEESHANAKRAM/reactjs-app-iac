@@ -1,5 +1,4 @@
 name: Cloudcore IAC
-
 on:
     push:
       branches: 
