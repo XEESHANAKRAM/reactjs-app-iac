@@ -1,4 +1,3 @@
-# HELLO
 ![Terraform Version](https://img.shields.io/badge/Terraform-1.7.3-blue.svg)
 # Terraform Configuration for AWS EKS Cluster
 
